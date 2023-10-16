@@ -1,0 +1,22 @@
+{
+    "title": "A Man Who Thought Different",
+    "about_story" : "This is a Real Life Journey of the Steve Jobs ",
+    "number_of_pages": 1,
+    "pages": [
+        {
+            "page_title": "Steve Jobs",
+            "page_content": [
+                "The Man Who Thought Different is a biography on one of the pioneers",
+                "He is of the twenty-first century",
+                "who lived to change the world and left the world transformed."
+        
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "Steve Jobs",
+            "url": "#"
+        }
+    ]
+}
